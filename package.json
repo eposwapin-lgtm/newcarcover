@@ -1,0 +1,12 @@
+{
+  "name": "stratus-auto-covers",
+  "version": "1.0.0",
+  "description": "Stratus Auto Covers — premium custom-fit car covers, Boulder CO",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": "20.x" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "compression": "^1.7.4"
+  }
+}
